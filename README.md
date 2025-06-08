@@ -15,5 +15,7 @@ A modern weather forecast application built with **React**, **Tailwind CSS**, an
 
 ---
 
-## 🧱 Project Structure
+Note
+
+Please use your own weather application API keyin for security measures
 
